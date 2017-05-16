@@ -1,7 +1,7 @@
 These are the instructions for installing your product.
 
 # Install
-TODO: write instructions explaining how to install the product
+TODO: Andrew got 1 line into writing install instructions before giving up
 
 # Uninstall
-TODO: tell people how to uninstall the product
+- Run `rm -rf /usr/bin/our_product`
