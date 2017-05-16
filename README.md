@@ -21,7 +21,7 @@ If you have questions or get stuck the following resources may help you.
 - Your coworkers
 
 
-# Section 1: 
+# Section 1: Tracking Changes
 **Topics:** Checkout, commit, revert, merge, log, move, and remove.
 
 Files for the section can be found in the `section1` directory.
