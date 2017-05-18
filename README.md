@@ -8,6 +8,10 @@ If you aren't sure if you have Git or not, simply run `git --help` from the comm
 It will return a helpful message with some common commands if it is installed.
 
 
+### Git Basics
+* [What is source control?](http://slides.com/justinc/deck#/)
+* [Learn You a Git](http://slides.com/justinc/learn-you-a-git#/)
+
 ### Configure who you are
 - Set your user name with `git config --global user.name "your name"`
 - Set your email with `git config --global user.email "you@email.domain"`
