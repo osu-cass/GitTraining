@@ -11,6 +11,7 @@ It will return a helpful message with some common commands if it is installed.
 ### Git Basics
 * [What is source control?](http://slides.com/justinc/deck#/)
 * [Learn You a Git](http://slides.com/justinc/learn-you-a-git#/)
+* [Github Interactive Tutorial](https://try.github.io/levels/1/challenges/1)
 
 ### Configure who you are
 - Set your user name with `git config --global user.name "your name"`
